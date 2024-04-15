@@ -1,0 +1,15 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Test1
+    probability: 1
+  - name: Test2
+    probability: 1
+  - name: Test3
+    probability: 1
+  - name: Test4
+    probability: 1
+name: eorzeaE
+source: null
+subsets: []
